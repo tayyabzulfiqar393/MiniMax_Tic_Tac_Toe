@@ -19,5 +19,3 @@ An **AI-powered Tic Tac Toe game** built with **Java Swing** where you play agai
 - **AWT** – Event handling & Colors
 
 ---
-
-## 📂 Project Structure
